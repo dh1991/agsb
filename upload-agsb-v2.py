@@ -34,8 +34,8 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "dhagsd"         # 用户名
 UUID = "a91b59b6-ade4-56gy-9iou-88d184c48048"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
-DOMAIN = "free.testlrj.ddns-ip.net"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiODBmMjY5ZmQ1N2QzNzNiMmMzZTBkODc4ODg1NWM5MzIiLCJ0IjoiZmVhMzBmODUtOGY5OC00ZTVmLTkyZTktMmU2OTk2M2E1YzUyIiwicyI6Ik4yTmlZemxpTlRjdE5UVm1PQzAwTjJZekxXRmpORGt0TVdVNE5HUmtORGN3TldObSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+DOMAIN = "ttfly.fyvless.top"                   # 域名，留空则自动获取
+CF_TOKEN = "eyJhIjoiYmEzOTI1ZWViYjEwZDUwODE4YmJmMWYwNmUyYzQxMGEiLCJ0IjoiZjU2MmIxMTEtZTg2Zi00YmQzLTg1MWUtNGMxZTE5OGRlNGY1IiwicyI6IlpqZzFNR00xWmpndE5EUTRNUzAwWTJFMExXSXpZamd0TkRGa00yWXpZMlZpTjJaaSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
